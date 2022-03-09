@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<package xmlns="http://schemas.microsoft.com/packaging/2015/06/nuspec.xsd">
+  <metadata>
+    <id>mpxplay</id>
+    <version>1.66</version>
+    <packageSourceUrl>https://code.rosaelefanten.org/choco-mpxplay</packageSourceUrl>
+    <owners>Cthulhux</owners>
+    <title>Mpxplay</title>
+    <authors>Attila Padar</authors>
+    <projectUrl>http://mpxplay.sourceforge.net</projectUrl>
+    <copyright>1998 - 2022 PDSoft</copyright>
+    <requireLicenseAcceptance>false</requireLicenseAcceptance>
+    <tags>mpxplay music player</tags>
+    <summary>Mpxplay is a commander-style console audio player for DOS and Win32 operating systems.</summary>
+    <description>Mpxplay is a commander-style console audio player for DOS and Win32 operating systems.</description>
+  </metadata>
+  <files>
+    <file src="tools\**" target="tools" />
+  </files>
+</package>
